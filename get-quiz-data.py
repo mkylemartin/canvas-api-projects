@@ -1,5 +1,5 @@
 """ This script returns a number of select details about all the quizzes
-    in a given semester. This is for Maya Stone (maya.franks@byu.edu)
+    in a given semester. 
 
     It is my understanding that these are the semester IDs
     `enrollment_term_id` is the value we will be setting
