@@ -1,5 +1,8 @@
 # canvas-api-projects
-Contains scripts I wrote for work to retrieve data from Canvas while working at BYU Online Courses
+Contains scripts I wrote for work to retrieve data from Canvas while working at BYU Online Courses.
+
+## `AIM-scraper-windows.py`
+This script was developed using Selenium. It gets authenticates through DUO (waits for your approval) and retrieves information from the student information system (AIM).
 
 ## `checking-content-pages.py`
 Goes through all courses in a given semester and checks to see if certain surveys have been added. 
